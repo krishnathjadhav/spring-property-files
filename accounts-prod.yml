@@ -4,10 +4,11 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Krishnath Jadhav-KKJJAA - Product Owner.KK"
+    name: "Krishnath Jadhav - Product Owner"
     email: "krishnath@eazybank.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
+
 
 
